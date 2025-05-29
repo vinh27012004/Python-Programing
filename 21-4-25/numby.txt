@@ -1,0 +1,2 @@
+Đối tượng mảng trong Numpy gọi ndarray
+Các mảng numpy được lưu trữ tại một vị trí liên tục trong bộ nhớ không như danh sách  
